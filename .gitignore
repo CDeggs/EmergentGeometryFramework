@@ -1,0 +1,23 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# PDF outputs
+*.pdf
+
+# Editor backups
+*~
+*.swp
+*.bak
+
+# MacOS junk
+.DS_Store
+
+# Temporary directories
+tmp/
+temp/
