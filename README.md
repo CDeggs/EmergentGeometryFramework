@@ -22,4 +22,11 @@ A unified theoretical framework integrating emergent geometry, dark‑sector pha
 /Notebooks/
 /Examples/
 
+## License
+
+This repository and its contents are licensed under **CC BY‑NC‑ND 4.0**.
+
+## Citation
+
+A Zenodo DOI will be added after the first GitHub release.
 
